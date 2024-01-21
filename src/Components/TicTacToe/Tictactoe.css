@@ -75,3 +75,7 @@ button::before {
 button:hover::before {
  width: 9em;
 }
+.winner-box {
+   background-color:  #e1de2c;
+   color: #fff; /* You can customize the border style */
+}
